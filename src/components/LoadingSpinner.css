@@ -1,0 +1,16 @@
+.fa-spin {
+  text-align: center;
+}
+
+.lol {
+  position: absolute;
+  right: 50%;
+  bottom: 50%;
+  font-size: 25px;
+  margin: auto;
+}
+
+.lol p {
+  display: inline;
+  margin-left: 13px;
+}
